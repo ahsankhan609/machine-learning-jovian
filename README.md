@@ -1,1 +1,1 @@
-# machine-learning-jovian
+# Machine-Learning 'Jovian'
